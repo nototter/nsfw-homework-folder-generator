@@ -9,6 +9,8 @@ it is easy to write but my sanity says otherwise
 
 NOTES:
 
+used with python 3.9.10
+
 blacklisting links in the script doesnt work
 
 this will download mlp pron and furry pron so beware
